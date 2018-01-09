@@ -1,4 +1,4 @@
-# Teste de Desenvolvedor Júnior 2017
+# Teste de Desenvolvedor 2017
 Autor: João Augusto Mussa Pires
 
 # MARS ROVERS
